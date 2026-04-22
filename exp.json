@@ -1,0 +1,19 @@
+{
+  "script_info": {
+    "name": "Four Neight",
+    "version": "10.0.0",
+    "developer": "@luytm",
+  },
+  "expiry_data": {
+    "expired_date": "2026-5-01T23:59:59+07:00",
+    "grace_period_days": 1,
+    "active_message": "Script berjalan normal, silakan nikmati fitur yang tersedia.",
+    "grace_message": "Script sudah mencapai tanggal kedaluwarsa, namun masih bisa digunakan selama periode toleransi. Silakan hubungi developer untuk pembaruan segera.",
+    "expired_message": "Script tidak dapat digunakan lagi karena sudah melewati periode toleransi. Silakan hubungi developer untuk mendapatkan versi terbaru atau ekstensi masa aktif."
+  },
+  "maintenance": {
+    "is_maintenance": false,
+    "maintenance_message": "Script sedang dalam perawatan sistem, silakan coba kembali beberapa saat lagi."
+  },
+  "last_updated": "2026-03-09T12:00:00+07:00"
+}
