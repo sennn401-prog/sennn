@@ -12,7 +12,7 @@
     "expired_message": "Script tidak dapat digunakan lagi karena sudah melewati periode toleransi. Silakan hubungi developer untuk mendapatkan versi terbaru atau ekstensi masa aktif."
   },
   "maintenance": {
-    "is_maintenance": false,
+    "is_maintenance": true,
     "maintenance_message": "Script sedang dalam perawatan sistem, silakan coba kembali beberapa saat lagi."
   },
   "last_updated": "2026-03-09T12:00:00+07:00"
