@@ -5,7 +5,7 @@
     "developer": "@luytm"
   },
   "expiry_data": {
-    "expired_date": "2026-04-28T23:59:59+07:00",
+    "expired_date": "2026-05-01T23:59:59+07:00",
     "grace_period_days": 3,
     "active_message": "Script berjalan normal, silakan nikmati fitur yang tersedia.",
     "grace_message": "Script sudah mencapai tanggal kedaluwarsa, namun masih bisa digunakan selama periode toleransi. Silakan hubungi developer untuk pembaruan segera.",
